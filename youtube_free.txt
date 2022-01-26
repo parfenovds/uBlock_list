@@ -1,0 +1,23 @@
+youtube.com##.section-list > li:has(.shelf-title-cell > a[href="/feed/recommended"])
+www.youtube.com##.grid-disabled.ytd-browse.style-scope
+youtube.com##.ytd-shelf-renderer
+youtube.com##.ytd-watch-next-secondary-results-renderer
+www.youtube.com###dismissable:has(#title:contains(Recommended))
+www.youtube.com##.ytp-videowall-still-info-content
+www.youtube.com##.ytp-videowall-still-image
+www.youtube.com##.ytp-videowall-still-listabel
+www.youtube.com##.ytp-suggestion-set
+www.youtube.com##.ytp-ce-covering-overlay
+www.youtube.com##.ytp-ce-covering-image
+www.youtube.com##.ytp-ce-covering-shadow-top
+www.youtube.com##.ytp-ce-element-shadow
+www.youtube.com##.ytp-ce-element-hover
+www.youtube.com##.ytp-ce-size-853
+
+! 2022-01-23 https://habr.com
+habr.com##.tm-sexy-sidebar_stick-top.tm-sexy-sidebar
+habr.com##.tm-layout-sidebar
+habr.com##.tm-page__sidebar
+habr.com##.tm-top-link
+habr.com##section.tm-block_spacing-around.tm-block:nth-of-type(2)
+habr.com##section.tm-block_spacing-around.tm-block:nth-of-type(4)
